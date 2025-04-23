@@ -1,0 +1,14 @@
+# Ignore development files and directories
+node_modules/
+coverage/
+
+# Ignore TypeScript source files
+*.ts
+
+# Ignore configuration files
+tsconfig.json
+tsconfig.*.json
+
+# Ignore test files
+*.test.ts
+*.spec.ts

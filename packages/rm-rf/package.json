@@ -31,6 +31,9 @@
   "scripts": {
     "build": "pkgroll"
   },
+  "publishConfig": {
+    "provenance": true
+  },
   "author": {
     "name": "matthewh",
     "email": "matthatcher@pm.me",

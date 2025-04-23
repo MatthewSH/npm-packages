@@ -4,10 +4,10 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "matthewsh/npm-packages"
+      "repo": "MatthewSH/npm-packages"
     }
   ],
-  "commit": false,
+  "commit": true,
   "fixed": [],
   "linked": [],
   "access": "public",

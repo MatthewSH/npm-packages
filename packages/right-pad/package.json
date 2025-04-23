@@ -1,6 +1,6 @@
 {
   "name": "right-pad",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Right Pad adds a padding to the right side of the string with the character of your choice or just blank space.",
   "type": "module",
   "main": "./dist/index.cjs",

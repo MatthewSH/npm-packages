@@ -1,6 +1,6 @@
 {
   "name": "scrape-url",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Scrape URL with CSS selectors",
   "keywords": [
     "scrape",

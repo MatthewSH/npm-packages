@@ -1,6 +1,6 @@
 {
   "name": "is-node",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Detect if current process is a node application or not.",
   "type": "module",
   "main": "./dist/index.cjs",

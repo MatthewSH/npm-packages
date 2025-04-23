@@ -1,0 +1,4 @@
+.turbo/
+src/
+.env
+node_modules

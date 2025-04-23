@@ -1,6 +1,6 @@
 {
   "name": "rm-rf",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Rimraf and glob all in one.",
   "engines": {
     "node": ">= 0.10"
